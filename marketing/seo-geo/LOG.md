@@ -1,0 +1,378 @@
+# ClockJoy SEO / GEO ship log
+
+Append one entry per weekday ship. Do not rewrite history; add new sections at the top.
+
+---
+
+## 2026-10-23 — shift end reminder without timesheet EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Shift end reminder without timesheet (soft nudge vs attendance punch) → `/en/guides/shift-end-reminder-without-timesheet.html` + CN twin `/guides/shift-end-reminder-without-timesheet.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` and `docs/guides/index.html` (new guide-card first; meta mentions shift end reminder)
+- Updated `docs/sitemap.xml` (both locale URLs + indexes lastmod 2026-10-23)
+- Mutual `hreflang` + 中文版 / English version links
+- Framed around always-visible countdown / Live Activity / widgets; optional clock-in/clock-out reminders mentioned only as described in `docs/privacy.html` (notification permission section)
+- Cross-links to clock-out-live-activity, dynamic-island-countdown, best-lock-screen-countdown-for-work, work-timer-vs-countdown, salary-progress-vs-timesheet, overtime-day-tracker-for-motivation, privacy-mode-lock-screen-earnings, dynamic-island-earnings-glance, workday-progress-bar
+- Social draft: `marketing/posts/2026-10-23-instagram-shift-end-reminder-without-timesheet.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/shift-end-reminder-without-timesheet.html
+- https://sunzhengnj.github.io/ClockJoy/guides/shift-end-reminder-without-timesheet.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** clock-out companion for office workers; iPhone Live Activity for hourly jobs; early clock-out day tracker.
+
+---
+## 2026-10-19 — Dynamic Island earnings glance EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Dynamic Island earnings glance (what updates, what iOS controls) → `/en/guides/dynamic-island-earnings-glance.html` + CN twin `/guides/dynamic-island-earnings-glance.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` and `docs/guides/index.html` (new guide-card first; meta mentions Dynamic Island earnings glance)
+- Updated `docs/sitemap.xml` (both locale URLs + indexes lastmod 2026-10-19)
+- Mutual `hreflang` + 中文版 / English version links
+- Cross-links to dynamic-island-countdown, clock-out-live-activity, privacy-mode-lock-screen-earnings, hourly-pay-widget, workday-progress-bar, salary-progress-vs-timesheet
+- Social draft: `marketing/posts/2026-10-19-instagram-dynamic-island-earnings.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/dynamic-island-earnings-glance.html
+- https://sunzhengnj.github.io/ClockJoy/guides/dynamic-island-earnings-glance.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** shift end reminder without timesheet; clock-out companion for office workers; iPhone Live Activity for hourly jobs.
+
+---
+## 2026-10-16 — work timer vs countdown EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Work timer vs countdown app (which job each product solves) → `/en/guides/work-timer-vs-countdown.html` + CN twin `/guides/work-timer-vs-countdown.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` and `docs/guides/index.html` (new guide-card first; meta mentions work timer vs countdown)
+- Updated `docs/sitemap.xml` (both locale URLs + indexes lastmod 2026-10-16)
+- Mutual `hreflang` + 中文版 / English version links
+- Cross-links to salary-progress-vs-timesheet, best-lock-screen-countdown-for-work, dynamic-island-countdown, workday-progress-bar, clock-out-live-activity
+- Social draft: `marketing/posts/2026-10-16-instagram-work-timer-vs-countdown.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/work-timer-vs-countdown.html
+- https://sunzhengnj.github.io/ClockJoy/guides/work-timer-vs-countdown.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** Dynamic Island earnings glance; shift end reminder without timesheet; clock-out companion for office workers.
+
+---
+## 2026-10-12 — privacy share card hide-pay EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Share workday progress card without showing pay (privacy share defaults) → `/en/guides/privacy-share-card-hide-pay.html` + CN twin `/guides/privacy-share-card-hide-pay.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` and `docs/guides/index.html` (new guide-card first; meta mentions privacy share cards)
+- Updated `docs/sitemap.xml` (both locale URLs + indexes lastmod 2026-10-12)
+- Mutual `hreflang` + 中文版 / English version links
+- Cross-links to privacy-mode Lock Screen guide (desk glance) vs this share-card angle (export/post)
+- Social draft: `marketing/posts/2026-10-12-instagram-privacy-share-card.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/privacy-share-card-hide-pay.html
+- https://sunzhengnj.github.io/ClockJoy/guides/privacy-share-card-hide-pay.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** work timer vs countdown app; Dynamic Island earnings glance; shift end reminder without timesheet.
+
+---
+## 2026-10-09 — monthly / yearly workday summary EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Monthly / yearly workday summary (motivation rollup vs pay stub) → `/en/guides/monthly-yearly-workday-summary.html` + CN twin `/guides/monthly-yearly-workday-summary.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` and `docs/guides/index.html` (new guide-card first; meta mentions monthly/yearly summary)
+- Updated `docs/sitemap.xml` (both locale URLs + indexes lastmod 2026-10-09)
+- Mutual `hreflang` + 中文版 / English version links
+- Social draft: `marketing/posts/2026-10-09-instagram-monthly-yearly-summary.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/monthly-yearly-workday-summary.html
+- https://sunzhengnj.github.io/ClockJoy/guides/monthly-yearly-workday-summary.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** share workday progress card without showing pay; work timer vs countdown app; Dynamic Island earnings glance.
+
+---
+## 2026-10-05 — wish / goal progress for workdays EN guide
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Wish / goal progress companion → `/en/guides/wish-goal-progress-workday.html`
+
+**Also**
+
+- Fact-checked against app source (`WishExperience`, `personalGoalProgress`): wish via text/link/photo/screenshot; optional target amount → progress from estimated earnings since creation + est. workdays remaining; manual progress; active/paused/completed/abandoned; wish shelf.
+- Updated `docs/en/guides/index.html` (new guide-card first; meta mentions wish progress)
+- Updated `docs/sitemap.xml` (new EN URL + `en/guides/` lastmod 2026-10-05)
+- Social draft: `marketing/posts/2026-10-05-x-wish-progress-workday.md` (X thread @ycbhsz; EN-only)
+- No App Store Connect edits
+- No CN twin this batch
+- No social auto-post
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/wish-goal-progress-workday.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+
+**Failures / follow-ups**
+
+- CN twin for wish progress: deferred (capacity).
+- ASC live metadata: not touched.
+
+**Next queue items:** monthly / yearly workday summary; share workday progress card without showing pay; work timer vs countdown app.
+
+---
+
+## 2026-10-02 — privacy mode Lock Screen earnings EN guide
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Privacy mode Lock Screen earnings (amounts hidden by default) → `/en/guides/privacy-mode-lock-screen-earnings.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` (new guide-card first; meta mentions privacy mode Lock Screen earnings)
+- Updated `docs/sitemap.xml` (new EN URL + `en/guides/` lastmod 2026-10-02)
+- Social draft: `marketing/posts/2026-10-02-instagram-privacy-mode-lock-screen.md` (Instagram carousel; EN-only)
+- Marked prior ships (freelancer 2026-09-25, overtime 2026-09-28) done in QUEUE
+- No App Store Connect edits
+- No CN twin this batch
+- No social auto-post
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/privacy-mode-lock-screen-earnings.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+
+**Failures / follow-ups**
+
+- CN twin for privacy mode Lock Screen earnings: deferred (capacity).
+- ASC live metadata: not touched.
+
+**Next queue items:** wish / goal progress companion; monthly / yearly workday summary; share workday progress card without showing pay.
+
+---
+
+## 2026-09-21 — best Lock Screen countdown for work EN guide
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Best Lock Screen countdown for work → `/en/guides/best-lock-screen-countdown-for-work.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` (new guide-card first; meta mentions Lock Screen countdown for work)
+- Updated `docs/sitemap.xml` (new EN URL + `en/guides/` lastmod 2026-09-21)
+- Social draft: `marketing/posts/2026-09-21-instagram-lock-screen-setups.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No CN twin this batch
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/best-lock-screen-countdown-for-work.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+
+**Failures / follow-ups**
+
+- CN twin for best Lock Screen countdown: deferred (capacity).
+- ASC live metadata: not touched.
+- Cloud Agents unavailable this run; shipped via GitHub MCP.
+
+**Next queue items:** freelancer day earnings estimate; overtime day tracker for motivation; Home Screen hourly wage widget.
+
+---
+
+## 2026-09-18 — salary progress vs timesheet EN guide
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Salary progress vs timesheet → `/en/guides/salary-progress-vs-timesheet.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` (new guide-card first; meta mentions salary progress vs timesheet)
+- Updated `docs/sitemap.xml` (new EN URL + `en/guides/` lastmod 2026-09-18)
+- Social draft: `marketing/posts/2026-09-18-linkedin-workday-countdown-boundary.md` (LinkedIn boundary / countdown; EN-only)
+- No App Store Connect edits
+- No CN twin this batch
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/salary-progress-vs-timesheet.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+
+**Failures / follow-ups**
+
+- CN twin for salary progress vs timesheet: deferred (capacity).
+- ASC live metadata: not touched.
+
+**Next queue items:** best Lock Screen countdown for work; freelancer day earnings estimate; overtime day tracker for motivation.
+
+---
+
+## 2026-09-15 — clock-out Live Activity EN guide
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Clock-out Live Activity iPhone → `/en/guides/clock-out-live-activity.html`
+
+**Also**
+
+- Updated `docs/en/guides/index.html` (new guide-card first; meta mentions Live Activity / clock-out)
+- Updated `docs/sitemap.xml` (new EN URL + `en/guides/` lastmod 2026-09-15)
+- Social draft: `marketing/posts/2026-09-15-x-lock-screen-end-of-shift.md` (X @ycbhsz Lock Screen tip)
+- No App Store Connect edits
+- No CN twin this batch
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/clock-out-live-activity.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+
+**Failures / follow-ups**
+
+- CN twin for clock-out Live Activity: deferred (capacity).
+- ASC live metadata: not touched.
+
+**Next queue items:** salary progress vs timesheet; best Lock Screen countdown for work; freelancer day earnings estimate.
+
+---
+
+## 2026-09-14 — first automated EN GEO batch
+
+**Status:** shipped (pipeline bootstrap)
+
+**Topics completed**
+
+1. Hourly pay widget iPhone → `/en/guides/hourly-pay-widget.html`
+2. Dynamic Island work countdown → `/en/guides/dynamic-island-countdown.html`
+3. Workday progress bar app → `/en/guides/workday-progress-bar.html`
+
+**Also**
+
+- Created `marketing/seo-geo/` (`PIPELINE.md`, `QUEUE.md`, `LOG.md`)
+- Created `docs/en/guides/index.html`
+- Updated `docs/sitemap.xml` (three new EN URLs, lastmod 2026-09-14)
+- Updated `docs/app-store/en-US.md` (ASC paste note; Description stays ClockJoy-only)
+
+**Brand check:** new public copy uses ClockJoy only (no legacy brand names).
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/en/guides/hourly-pay-widget.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/dynamic-island-countdown.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/workday-progress-bar.html
+
+**Failures / follow-ups**
+
+- Live App Store Connect description not edited from this batch (repo paste only). Apply `docs/app-store/en-US.md` when ASC access is available.
+- CN twins for the three new EN guides: deferred (capacity).
+
+**Next queue items:** clock-out Live Activity; salary progress vs timesheet; best Lock Screen countdown for work.
+
+## 2026-10-05 — CN backfill for all EN guides
+- Added Chinese twins under `docs/guides/` for every EN guide that lacked one (wish, privacy mode, overtime, freelancer, best Lock Screen countdown, salary vs timesheet, clock-out Live Activity, hourly widget, Dynamic Island, workday progress bar).
+- Updated CN guides index + sitemap; wired EN↔CN `hreflang` and footer links.
+- Pipeline: Mon/Fri must ship EN+CN together going forward.
