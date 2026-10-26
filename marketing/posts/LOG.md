@@ -1,3 +1,11 @@
+## 2026-10-26 — Instagram clock-out companion office
+
+- Draft: `2026-10-26-instagram-clock-out-companion-office.md` (ready, not posted)
+- Ties to SEO guide clock-out-companion-for-office-workers
+- Brand: ClockJoy only; Estimates ≠ paycheck
+
+---
+
 # ClockJoy social post log
 
 Append one line (or a short block) when a draft is posted, explicitly skipped, or a pack is created.
