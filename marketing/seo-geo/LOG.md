@@ -4,6 +4,42 @@ Append one entry per weekday ship. Do not rewrite history; add new sections at t
 
 ---
 
+## 2026-10-26 — clock-out companion for office workers EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. Clock-out companion for office workers (playful progress, not HR tools) → `/en/guides/clock-out-companion-for-office-workers.html` + CN twin `/guides/clock-out-companion-for-office-workers.html`
+
+**Also**
+
+- Updated `en/guides/index.html` and `guides/index.html` (new guide-card first; meta mentions clock-out companion)
+- Updated `sitemap.xml` (both locale URLs + indexes lastmod 2026-10-26)
+- Mutual `hreflang` + 中文版 / English version links
+- Framed as personal office companion vs HR / timesheet / attendance; cross-links to shift-end-reminder, clock-out-live-activity, workday-progress-bar, salary-progress-vs-timesheet, work-timer-vs-countdown, privacy guides, overtime tracker, Dynamic Island pages
+- Social draft: `marketing/posts/2026-10-26-instagram-clock-out-companion-office.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only (no legacy brand names). Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/clock-out-companion-for-office-workers.html
+- https://sunzhengnj.github.io/ClockJoy/guides/clock-out-companion-for-office-workers.html
+- https://sunzhengnj.github.io/ClockJoy/en/guides/
+- https://sunzhengnj.github.io/ClockJoy/guides/
+
+**Failures / follow-ups**
+
+- ASC live metadata: not touched.
+
+**Next queue items:** iPhone Live Activity for hourly jobs; early clock-out day tracker; estimated paycheck progress mid-month.
+
+---
+
+
 ## 2026-10-23 — shift end reminder without timesheet EN+CN guides
 
 **Status:** shipped
