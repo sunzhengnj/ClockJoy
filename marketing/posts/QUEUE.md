@@ -32,6 +32,7 @@ Primary channels: **X/Twitter (`@ycbhsz`)**, **Instagram**, **Reddit**, **Thread
 
 ## Done / drafted
 
+- [drafted 2026-10-30] Instagram carousel — Live Activity shift countdown for hourly jobs (retail / hospitality) → `2026-10-30-instagram-live-activity-hourly-jobs.md` (`ready`)
 - [drafted 2026-10-26] Instagram carousel — Clock-out companion for office workers (playful, not HR) → `2026-10-26-instagram-clock-out-companion-office.md` (`ready`)
 - [drafted 2026-10-16] Reddit `r/jobs` — hours left today vs to-do list → `2026-10-16-reddit-jobs-hours-left-today.md` (`ready`)
 - [drafted 2026-10-12] Instagram carousel — Privacy share card: progress without flashing pay → `2026-10-12-instagram-privacy-share-card.md` (`ready`)
