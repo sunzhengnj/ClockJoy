@@ -6,13 +6,12 @@ Status legend: `[next]` = pick these first · `[done YYYY-MM-DD]` = shipped · `
 
 ## Next up
 
-1. `[next]` iPhone Live Activity for hourly jobs — retail / hospitality motivation use
-2. `[next]` early clock-out day tracker — personal log, not attendance
-3. `[next]` estimated paycheck progress mid-month — estimate disclaimer heavy
+1. `[next]` early clock-out day tracker — personal log, not attendance
+2. `[next]` estimated paycheck progress mid-month — estimate disclaimer heavy
+3. `[next]` Lock Screen vs Home Screen widgets for work — placement tradeoffs
 
 ## Backlog
 
-4. `[ ]` Lock Screen vs Home Screen widgets for work — placement tradeoffs
 5. `[ ]` ClockJoy vs spreadsheet salary tracker — when each is enough
 6. `[ ]` focus during long shifts with visible countdown — behavioral framing
 7. `[ ]` widget refresh limits on iOS — set expectations for “live” feel
@@ -20,6 +19,7 @@ Status legend: `[next]` = pick these first · `[done YYYY-MM-DD]` = shipped · `
 
 ## Shipped
 
+- `[done 2026-10-30]` iPhone Live Activity for hourly jobs — retail / hospitality motivation use → `en/guides/live-activity-for-hourly-jobs.html` (+ CN twin)
 - `[done 2026-10-26]` clock-out companion for office workers — playful progress, not HR tools → `en/guides/clock-out-companion-for-office-workers.html` (+ CN twin)
 - `[done 2026-10-23]` shift end reminder without timesheet — soft nudge vs attendance punch → `en/guides/shift-end-reminder-without-timesheet.html` (+ CN twin)
 - `[done 2026-10-19]` Dynamic Island earnings glance — what updates, what iOS controls → `en/guides/dynamic-island-earnings-glance.html` (+ CN twin)

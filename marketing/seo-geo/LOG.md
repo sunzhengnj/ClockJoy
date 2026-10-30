@@ -4,6 +4,31 @@ Append one entry per weekday ship. Do not rewrite history; add new sections at t
 
 ---
 
+## 2026-10-30 — iPhone Live Activity for hourly jobs EN+CN guides
+
+**Status:** shipped
+
+**Topics completed**
+
+1. iPhone Live Activity for hourly jobs (retail / hospitality motivation use) → `/en/guides/live-activity-for-hourly-jobs.html` + CN twin `/guides/live-activity-for-hourly-jobs.html`
+
+**Also**
+
+- Updated `en/guides/index.html` and `guides/index.html` (new guide-card first; title/meta mention the new guide)
+- Updated `sitemap.xml` (both locale URLs + indexes lastmod 2026-10-30)
+- Mutual `hreflang` + 中文版 / English version links
+- Framed as personal shift countdown for on-your-feet hourly workers vs workplace time clock / alarm / pay calculator; explicit "tips, breaks, taxes, differentials, rounding not modeled" disclaimer
+- Social draft: `marketing/posts/2026-10-30-instagram-live-activity-hourly-jobs.md` (Instagram carousel; EN-only)
+- No App Store Connect edits
+- No Xiaohongshu auto-post
+
+**Brand check:** new public copy uses ClockJoy (EN) / 开薪 (CN) only. Product truth: Estimates ≠ paycheck / 估算≠工资条.
+
+**Pages deploy URLs (after GitHub Pages)**
+
+- https://sunzhengnj.github.io/ClockJoy/en/guides/live-activity-for-hourly-jobs.html
+- https://sunzhengnj.github.io/ClockJoy/guides/live-activity-for-hourly-jobs.html
+
 ## 2026-10-26 — clock-out companion for office workers EN+CN guides
 
 **Status:** shipped
